@@ -1,3 +1,3 @@
 ```python
-print("Just GPA Prediction. thats all. ")
+print(" Just GPA Prediction. thats all. ")
 ```
